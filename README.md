@@ -50,14 +50,9 @@ O objetivo desse sistema é diminuir o consumo de energia de forma que seja feit
 
 ## Tecnologias
 
-- [x] IDE: Android Studio 
-- [x] Linguagem de programação: Kotlin
-- [X] Arquitetura: MVVM
-- [x] Retrofit - Utilizado para consumo da API 
-- [x] Biblioteca Hilt - Injeção de Dependências
-- [x] Android Jetpack
-- [x] Jetpack Compose - Construir UI
-- [x] Coil - Carregar imagens
+- [x] Web-App usando ReactJs Library 
+- [x] Vite 2.0 Framework 
+- [X] Styled Components
 
 <a id="-layout"></a>
 
@@ -71,9 +66,8 @@ O layout da aplicação inicial desenvolvido utilizando o Figma: Protótipo Inic
 
 ## Como executar o projeto
 
-O projeto foi desenvolvido na plataforma Android Studio. 
-
-Portanto, é necessário clonar este repositório utilizando o Git, para depois então executá-lo no Android Studio.
+É necessário clonar este repositório utilizando o Git, para depois então executá-lo no terminal com o comando npm install
+e após a execução utilizar o comando npm run dev.
 
 
 <a id="-futuras-implementacoes"></a>
@@ -81,13 +75,6 @@ Portanto, é necessário clonar este repositório utilizando o Git, para depois 
 ## Futuras Implementações
 
 - [ ] Aprimoramento da pesquisa;
-- [ ] Ferramenta de comparação entre Pokémons.
+- [ ] Aprimoramento de componentes;
 
 
-<a id="-referencias"></a>
-
-## Referências
-
-Esta aplicação foi desenvolvida baseada na 
-[séries de vídeos](https://www.youtube.com/playlist?list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m) sobre 
-Jetpack Compose do [Philipp Lackner.](https://github.com/philipplackner)
