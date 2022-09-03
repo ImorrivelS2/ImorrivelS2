@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://imgur.com/a7SYk1m"><img src="https://i.imgur.com/a7SYk1m.png?2" alt="Pokédex Logo" width="369" height="223"/></a> </h1>
+<h1 align="center"> <a href="https://i.imgur.com/1xonpAj.png"><img src="https://i.imgur.com/1xonpAj.png" alt="Smart Hotel Logo" width="369" height="223"/></a> </h1>
   
  </h1>
 	
@@ -44,7 +44,7 @@ O objetivo desse sistema é diminuir o consumo de energia de forma que seja feit
 
 <h3>Feed:</h3>
 
-<a href="https://imgur.com/a/aHGxdvi"><img src="https://imgur.com/a/aHGxdvi" alt="Smart Hotel"/></a>
+<a href="https://i.imgur.com/UYlFERt.png"><img src="https://i.imgur.com/UYlFERt.png" alt="Smart Hotel"/></a>
 
 <a id="-tecnologias"></a>
 
